@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/30174_1ALAB/30174_1ALAB.iml" filepath="$PROJECT_DIR$/30174_1ALAB/30174_1ALAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30174_5ALAB/30174_5ALAB.iml" filepath="$PROJECT_DIR$/30174_5ALAB/30174_5ALAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AOOP_LAB.iml" filepath="$PROJECT_DIR$/AOOP_LAB.iml" />
+    </modules>
+  </component>
+</project>
