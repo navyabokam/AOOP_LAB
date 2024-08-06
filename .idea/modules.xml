@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/30174_1ALAB/30174_1ALAB.iml" filepath="$PROJECT_DIR$/30174_1ALAB/30174_1ALAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30174_1BLAB/30174_1BLAB.iml" filepath="$PROJECT_DIR$/30174_1BLAB/30174_1BLAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30174_2ALAB/30174_2ALAB.iml" filepath="$PROJECT_DIR$/30174_2ALAB/30174_2ALAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30174_2BLAB/30174_2BLAB.iml" filepath="$PROJECT_DIR$/30174_2BLAB/30174_2BLAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30174_3ALAB/30174_3ALAB.iml" filepath="$PROJECT_DIR$/30174_3ALAB/30174_3ALAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30174_3BLAB/30174_3BLAB.iml" filepath="$PROJECT_DIR$/30174_3BLAB/30174_3BLAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30174_4ALAB/30174_4ALAB.iml" filepath="$PROJECT_DIR$/30174_4ALAB/30174_4ALAB.iml" />
       <module fileurl="file://$PROJECT_DIR$/30174_5ALAB/30174_5ALAB.iml" filepath="$PROJECT_DIR$/30174_5ALAB/30174_5ALAB.iml" />
       <module fileurl="file://$PROJECT_DIR$/AOOP_LAB.iml" filepath="$PROJECT_DIR$/AOOP_LAB.iml" />
     </modules>
