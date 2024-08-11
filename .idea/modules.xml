@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/30174_4ALAB/30174_4ALAB.iml" filepath="$PROJECT_DIR$/30174_4ALAB/30174_4ALAB.iml" />
       <module fileurl="file://$PROJECT_DIR$/30174_5ALAB/30174_5ALAB.iml" filepath="$PROJECT_DIR$/30174_5ALAB/30174_5ALAB.iml" />
       <module fileurl="file://$PROJECT_DIR$/AOOP_LAB.iml" filepath="$PROJECT_DIR$/AOOP_LAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TDD/TDD.iml" filepath="$PROJECT_DIR$/TDD/TDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProjects/javaProjects.iml" filepath="$PROJECT_DIR$/javaProjects/javaProjects.iml" />
     </modules>
   </component>
 </project>
