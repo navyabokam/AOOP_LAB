@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/30174_11LAB/11A_LAB/11A_LAB.iml" filepath="$PROJECT_DIR$/30174_11LAB/11A_LAB/11A_LAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30174_10LAB/30174_10B/30174_10B.iml" filepath="$PROJECT_DIR$/30174_10LAB/30174_10B/30174_10B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30174_10LAB/30174_10LAB.iml" filepath="$PROJECT_DIR$/30174_10LAB/30174_10LAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30174_11LAB/30174_11LAB.iml" filepath="$PROJECT_DIR$/30174_11LAB/30174_11LAB.iml" />
       <module fileurl="file://$PROJECT_DIR$/30174_1ALAB/30174_1ALAB.iml" filepath="$PROJECT_DIR$/30174_1ALAB/30174_1ALAB.iml" />
       <module fileurl="file://$PROJECT_DIR$/30174_1BLAB/30174_1BLAB.iml" filepath="$PROJECT_DIR$/30174_1BLAB/30174_1BLAB.iml" />
       <module fileurl="file://$PROJECT_DIR$/30174_2ALAB/30174_2ALAB.iml" filepath="$PROJECT_DIR$/30174_2ALAB/30174_2ALAB.iml" />
